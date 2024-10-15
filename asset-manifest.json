@@ -1,20 +1,24 @@
 {
   "files": {
-    "main.css": "/FoodDel/static/css/main.9f095833.css",
-    "main.js": "/FoodDel/static/js/main.859ef329.js",
+    "main.css": "/FoodDel/static/css/main.d7cb3d45.css",
+    "main.js": "/FoodDel/static/js/main.1a0c4061.js",
     "static/js/453.790bb8ea.chunk.js": "/FoodDel/static/js/453.790bb8ea.chunk.js",
     "static/media/hero-2.png": "/FoodDel/static/media/hero-2.12b0d8ea4fb63911c1fe.png",
     "static/media/bootstrap-icons.woff?": "/FoodDel/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
     "static/media/bootstrap-icons.woff2?": "/FoodDel/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "static/media/hero-1.jpg": "/FoodDel/static/media/hero-1.c176491a87d1cc685bd3.jpg",
+    "static/media/about-1.jpg": "/FoodDel/static/media/about-1.6a11f18669cd4e578689.jpg",
     "static/media/logo.png": "/FoodDel/static/media/logo.115c7cdc5df109ada30f.png",
+    "static/media/pizza.png": "/FoodDel/static/media/pizza.7758b9dc4f032645391f.png",
+    "static/media/salad.png": "/FoodDel/static/media/salad.168b7c6816a63856002c.png",
+    "static/media/delivery-bike.png": "/FoodDel/static/media/delivery-bike.dccfe10cedb865f67bde.png",
     "index.html": "/FoodDel/index.html",
-    "main.9f095833.css.map": "/FoodDel/static/css/main.9f095833.css.map",
-    "main.859ef329.js.map": "/FoodDel/static/js/main.859ef329.js.map",
+    "main.d7cb3d45.css.map": "/FoodDel/static/css/main.d7cb3d45.css.map",
+    "main.1a0c4061.js.map": "/FoodDel/static/js/main.1a0c4061.js.map",
     "453.790bb8ea.chunk.js.map": "/FoodDel/static/js/453.790bb8ea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f095833.css",
-    "static/js/main.859ef329.js"
+    "static/css/main.d7cb3d45.css",
+    "static/js/main.1a0c4061.js"
   ]
 }
