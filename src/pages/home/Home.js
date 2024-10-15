@@ -2,6 +2,7 @@ import React from 'react'
 import Layout from "../../components/Layout"
 import Section1 from './Section1';
 import "../../styles/HomeStyle.css"
+import Section2 from './Section2';
 
 function Home() {
   return (
@@ -11,6 +12,7 @@ function Home() {
     
    </Layout>
    <Section1/>
+   <Section2></Section2>
      </>
   )
 }
